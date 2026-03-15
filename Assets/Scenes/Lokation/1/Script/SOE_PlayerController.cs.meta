@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f7ec2d5674400d74d883070617f58fb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cc: {instanceID: 0}
+  - staminaBar: {instanceID: 0}
+  - cameraTransform: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - walkStepClip: {fileID: 8300000, guid: dfb085d6371fb5e43b22e81c2dfe190d, type: 3}
+  - runStepClip: {fileID: 8300000, guid: a50b44de371697b488bb360da4ed82fb, type: 3}
+  - jumpClip: {fileID: 8300000, guid: 84e33c47e2e741c4d86f8a81408fa04c, type: 3}
+  - landClip: {fileID: 8300000, guid: 1edbe3bc7381ff145822589533440f3d, type: 3}
+  - breathClip: {fileID: 8300000, guid: a406a2ad74c87544a856f31c126cc696, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
