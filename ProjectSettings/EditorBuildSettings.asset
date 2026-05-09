@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SplashScene/SplashScene.unity
-    guid: a8810d8afc47dab4d832791caf859ef8
-  - enabled: 1
-    path: Assets/Scenes/MenuScene/MenuScene.unity
-    guid: be9e4cb3185b7ef498d782c75909f838
-  - enabled: 1
-    path: Assets/Scenes/Lokation/1/SampleScene.unity
+    path: "Assets/Assets School of Everything/\u041B\u043E\u043A\u0430\u0446\u0438\u0438/1\u041A1\u0426/1\u041A1\u0426.unity"
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/MenuScene/Setting/SettingsScene.unity
-    guid: cdf3f1a31db2b4845bfd1595230700d7
   m_configObjects: {}
